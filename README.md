@@ -1,4 +1,4 @@
-#Password Manager
+# Password Manager
 A basic password manager that securely stores passwords using AES-256-GCM encryption. The passwords are stored in SQLite data, and encryption keys are derived using PBKDF2 with SHA-256 hashtag.
 
 ## Personal Note
